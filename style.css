@@ -21,10 +21,20 @@
 
 .text{
     font-family:Arial;
-    font-size: 16px;   
+    font-size: 16px; 
+    text-align: justify;
+      
+}
+
+.text.description{
+
+    font-size:20px;
+    color:rgb(223, 180, 240);
+    font-weight: bold;
 }
 
 .T2.recipes{
 
     color:rgba(145, 53, 145, 0.87);
+    text-align: center;
 }
