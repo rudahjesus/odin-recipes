@@ -1,0 +1,30 @@
+.Title{
+
+    font-family: Arial;
+    font-size: 32px;
+    text-align: center;
+}
+
+.T2{
+
+    font-family:Arial;
+    font-size: 24px;
+    text-align: center;
+}
+
+.center{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.text{
+    font-family:Arial;
+    font-size: 16px;   
+}
+
+.T2.recipes{
+
+    color:rgba(145, 53, 145, 0.87);
+}
